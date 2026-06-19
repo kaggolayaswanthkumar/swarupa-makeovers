@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 
-const categories = ['All', 'Bridal', 'Reception', 'Party', 'Fashion'];
+const categories = ['All', 'Bridal', 'Reception', 'Party', 'Fashion', 'Resin Arts'];
 
 const portfolioItems = [
   { id: 1, src: '/images/portfolio-1.png', category: 'Bridal', title: 'Traditional Bridal Look' },
