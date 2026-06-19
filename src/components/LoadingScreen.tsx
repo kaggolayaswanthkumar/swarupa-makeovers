@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import logoSrc from '@assets/logo.png_1781155484210.png';
+const logoSrc = "/images/logo.png.png";
 
 export default function LoadingScreen() {
   const [loading, setLoading] = useState(true);
