@@ -11,6 +11,11 @@ const portfolioItems = [
   { id: 4, src: '/images/portfolio-4.png', category: 'Party', title: 'Evening Party Glam' },
   { id: 5, src: '/images/portfolio-5.png', category: 'Fashion', title: 'HD Flawless Skin' },
   { id: 6, src: '/images/portfolio-6.png', category: 'Fashion', title: 'Editorial Dramatic' },
+  { id: 7, src: '/images/resin art 1.jpeg', category: 'Resin Arts', title: 'Resin Art Frame' },
+  { id: 8, src: '/images/resin art 2.jpeg', category: 'Resin Arts', title: 'Customized Resin Art' },
+  { id: 9, src: '/images/resin art 3.jpeg', category: 'Resin Arts', title: 'Resin Decoration' },
+  { id: 10, src: '/images/resin art 4.jpeg', category: 'Resin Arts', title: 'Resin Name Board' },
+
 ];
 
 export default function Portfolio() {
