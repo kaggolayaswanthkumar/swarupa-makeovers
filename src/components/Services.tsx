@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Sparkles, Star, Heart, Camera, PartyPopper, Scissors, MoveVertical, Droplet, Aperture } from 'lucide-react';
+import { Sparkles, Star, Heart, Camera, PartyPopper, Scissors, MoveVertical, Droplet, Aperture, Palette } from 'lucide-react';
 
 const services = [
   { icon: Sparkles, title: "Bridal Makeup", desc: "Timeless bridal looks for your special day." },
@@ -11,6 +11,8 @@ const services = [
   { icon: MoveVertical, title: "Saree Draping", desc: "Elegant traditional draping." },
   { icon: Droplet, title: "Fashion Makeup", desc: "Editorial and runway-ready." },
   { icon: Aperture, title: "Photoshoot Makeup", desc: "Perfect for every frame." },
+  { icon: Palette, title: "Resin Art", desc: "Customized resin art, name boards, keychains, trays, wall décor and personalized gifts." },
+
 ];
 
 const containerVariants = {
