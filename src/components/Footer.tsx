@@ -1,5 +1,5 @@
 import { Instagram, Facebook, Phone } from 'lucide-react';
-import logoSrc from '@assets/logo.png_1781155484210.png';
+const logoSrc = "/images/logo.png.png";
 
 export default function Footer() {
   return (
