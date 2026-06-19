@@ -50,7 +50,7 @@ export default function About() {
           >
             <div className="aspect-[4/3] sm:aspect-[3/4] relative z-10">
               <img 
-                src="/images/about.png" 
+                src="/images/ about.png" 
                 alt="Swarupa Makeovers Artist at Work" 
                 className="w-full h-full object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-700"
               />
